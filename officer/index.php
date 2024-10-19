@@ -20,7 +20,7 @@ include('header.php');
 		<div class="panel panel-inverse">
 			<div class="panel-body">
 			 <h2>
-			 GHANA POLICE SERVICE
+			 RWANDA POLICE SERVICE
 			 </h2>
 				
 			</div>
